@@ -1,6 +1,10 @@
-<h1 align="center"> 
-    ✨ WilliamButcherBot ✨ 
-</h1>
+<h2 align="center">
+    ──「 HORIKITA INTENSEBOT IS A MODULAR BOT WITH ANIME THEME 」──
+</h2>
+
+<p align="center">
+  <img src="https://telegra.ph/file/1ec8e41e8cf0c7f3c345c.jpg">
+</p>
 
 <h3 align="center"> 
     Telegram Group Manager Bot + Userbot Written In Python Using Pyrogram.
