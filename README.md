@@ -36,6 +36,10 @@
     <a href="https://t.me/wbbsupport"> WbbSupport </a>
 </p>
 
+<p align="center">
+  <img src="https://telegra.ph/file/c0383e625300bec33a739.jpg">
+</p>
+
 <h2 align="center"> 
    ⇝ Requirements ⇜
 </h2>
